@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+
 title: My Second Pupusyastro Blog Post
 author: Pupusyastro Learner
 description: "After learning some Pupusyastro, I couldn't stop!"

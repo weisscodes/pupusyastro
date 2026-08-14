@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+
 title: My Fourth Pupusyastro Blog Post
 author: Pupusyastro Learner
 description: "This post will show up on its own!"

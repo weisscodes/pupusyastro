@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+
 title: My Third Pupusyastro Blog Post
 author: Pupusyastro Learner
 description: "I had some challenges, but asking in the community really helped!"
